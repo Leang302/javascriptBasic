@@ -25,5 +25,6 @@ let cool = () => {
 
 cool();
 
-
 //template literal
+//javascript will automatically add the semicolon for us between each line break
+console.log(`Hello my name is leang and im ${2 + 2}`);
